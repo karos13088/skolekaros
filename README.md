@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -134,6 +133,7 @@ background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
 }
 </style>
 </head>
+
 <body>
   <div class="navbar">
         <a href="#welcome-section">Home</a>
@@ -183,5 +183,6 @@ background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
  
 </div>
 </section>
+
 </body>
 </html>
